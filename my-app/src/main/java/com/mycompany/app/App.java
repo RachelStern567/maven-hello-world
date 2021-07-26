@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello Rachel!" );
 
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
@@ -25,5 +25,7 @@ public class App
          * http://checkerframework.org
          */
         System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
+
+        
     }
 }
